@@ -1,0 +1,53 @@
+﻿body {
+	font-family: Helvetica;
+}
+
+#plewy {
+	background-color: Navy;
+	color: white;
+	height: 700px;
+	width: 25%;
+	float: left;
+}
+
+#ppgora {
+	background-color: RoyalBlue;
+	height: 100px;
+	width: 75%;
+	text-align: center;
+	float: right;
+}
+
+#ppsrodek {
+	background-color: SteelBlue;
+	height: 300px;
+	width: 75%;
+	float: right;
+}
+
+#ppdol {
+	background-color: RoyalBlue;
+	height: 300px;
+	width: 75%;	
+	text-align: center;
+	float: right;
+}
+
+#stopka {
+	background-color: SteelBlue;
+	text-align: center;
+	padding: 20px;
+	clear: both;
+}
+
+h1 {
+	letter-spacing: 5px;
+}
+
+form {
+	margin: 30px;
+}
+
+form:hover {
+	background-color: DeepSkyBlue;
+}
