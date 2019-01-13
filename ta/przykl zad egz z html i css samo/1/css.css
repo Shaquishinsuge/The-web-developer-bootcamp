@@ -1,0 +1,42 @@
+#baner {
+	color: white;
+	background-color: #3B85AA;
+	padding: 10px;
+	text-align: center;
+	font-family: Arial;
+}
+
+#plewy {
+	width: 80%;
+	height: 450px;
+	text-align: center;
+	float: left;
+}
+
+#pprawy {
+	color: white;
+	background-color: #4E9BB5;
+	width: 20%;
+	height: 450px;
+	float: left;
+}
+
+#stopka {
+	color: white;
+	background-color: #3B85AA;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-family: Arial;
+	clear: both;
+}
+
+img {
+	border: 2px solid;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+a {
+	color: white;
+}
